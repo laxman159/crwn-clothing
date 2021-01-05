@@ -4,6 +4,8 @@ SHILLONG CLOSET
 
 LIVE DEMO: https://shillong-live.herokuapp.com/
 
+![crown](https://user-images.githubusercontent.com/56950807/103618770-86a9f880-4f56-11eb-803d-c3256dd4dd79.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
